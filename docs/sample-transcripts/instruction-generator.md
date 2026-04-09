@@ -299,7 +299,7 @@
 
 ## Testing the Built Agent
 
-Once you've created the agent in Copilot Agent Builder (see [Facilitator Setup Guide — Step 4](../../docs/facilitator-setup-guide.md#step-4-create-the-agent-in-copilot-agent-builder)), run these two tests to verify everything is working.
+Once you've created the agent in Copilot Agent Builder (see [Facilitator Setup Guide — Step 4](../facilitator-setup-guide.md#step-4-create-the-agent-in-copilot-agent-builder)), run these two tests to verify everything is working.
 
 ### Test 1 — Knowledge Source Check
 
@@ -367,7 +367,7 @@ If you get this back with the correct quote and attribution, your SharePoint kno
 
 ### How Good Is This Answer?
 
-Cross-referencing against the [Cheat Sheet](cheat-sheet.md), the agent's response reveals both its strengths and a deliberate gap:
+Cross-referencing against the [Cheat Sheet](../cheat-sheet.md), the agent's response reveals both its strengths and a deliberate gap:
 
 | Designed Disqualifier | Caught? | Details |
 |---|---|---|
@@ -385,7 +385,7 @@ The agent caught **2 out of 3** disqualifiers — which is genuinely useful but 
 
 > **Recovery phrase if this comes up during the demo:**
 > *"It caught two out of three. In a real workflow, the Trust & Safety layer helps close that gap."*
-> — from the [Cheat Sheet](cheat-sheet.md)
+> — from the [Cheat Sheet](../cheat-sheet.md)
 
 Also note the agent scored it as **Medium** rather than the expected **NO-GO**. This is because without the full guidelines DOCX in SharePoint, it's working from the public web page which doesn't surface the geographic weighting criteria as clearly. The agent is being appropriately cautious (strict flagging mode) rather than overcommitting to a verdict with incomplete data.
 
@@ -405,7 +405,7 @@ The agent generated the following knowledge sources in the instructions above:
 
 That's sensible for a real organisation — but **we're running a demo with a fictitious org**. Organisation-wide search will pull in real tenant data instead of our dummy documents, and Teams/email search will return nothing useful.
 
-When creating the agent in Copilot Agent Builder, **replace the `# KNOWLEDGE` section** with the following so the agent only looks at the SharePoint site you set up in the [Facilitator Setup Guide](../../docs/facilitator-setup-guide.md):
+When creating the agent in Copilot Agent Builder, **replace the `# KNOWLEDGE` section** with the following so the agent only looks at the SharePoint site you set up in the [Facilitator Setup Guide](../facilitator-setup-guide.md):
 
 ```
 # KNOWLEDGE

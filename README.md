@@ -97,7 +97,7 @@ This repo is designed so **any facilitator** — at a Microsoft event, a partner
 **Getting started:**
 1. Read this README to understand the workshop structure and demo scenario
 2. Follow the **[Facilitator Setup Guide](docs/facilitator-setup-guide.md)** to prepare your demo environment
-3. Review the **[Cheat Sheet](docs/demo-scripts/cheat-sheet.md)** — key facts, expected output, and recovery phrases
+3. Review the **[Cheat Sheet](docs/cheat-sheet.md)** — key facts, expected output, and recovery phrases
 4. Run the demo scripts:
    - [Stage 1 — Research Agent](docs/demo-scripts/01-research-agent.md) (25 min: ~12 min demo + ~13 min hands-on)
    - [Stage 2 — Instruction Generator](docs/demo-scripts/02-instruction-generator.md) (20 min: ~7 min demo + ~13 min hands-on)
