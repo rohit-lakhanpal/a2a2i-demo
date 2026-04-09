@@ -199,7 +199,7 @@ Prompt:
 >
 > *Please assess whether Southern Community Collective is a good fit. Our org documents are in SharePoint. The grant guidelines DOCX has also been uploaded there.*
 
-If it's working, you should see a **Decision Block** followed by a **Detailed Breakdown** that cross-references the grant criteria against the org profile. Check the [sample transcript](sample-transcripts/instruction-generator.md#testing-the-built-agent) for the full expected output and analysis of what the agent catches (and misses).
+If it's working, you should see a **Decision Block** followed by a **Detailed Breakdown** that cross-references the grant criteria against the org profile. Check the [Grant Fit Check sample transcript](sample-transcripts/grant-fit-check.md) for the full expected output and analysis of what the agent catches (and misses).
 
 > **Important:** The agent will likely score this as **Medium** fit and catch 2 of the 3 designed disqualifiers (round closed + excluded use of funds). It typically misses the geographic priority mismatch — and that's by design. This sets up the Trust & Safety conversation in Stage 3.
 
