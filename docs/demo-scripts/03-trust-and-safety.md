@@ -1,8 +1,8 @@
 # Demo Script — Stage 3: Trust & Safety Agent
 
-**Total time:** 10 minutes (4–5 min facilitator demo + 5–6 min participant hands-on)
-**Facilitator role-plays as:** Same nonprofit staff member, now consolidating and documenting the agent for responsible use
-**Agent:** Trust & Safety Agent → [aka.ms/a2a2i](https://aka.ms/a2a2i)
+- **Total time:** 10 minutes (4–5 min facilitator demo + 5–6 min participant hands-on)
+- **Facilitator role-plays as:** Same nonprofit staff member, now consolidating and documenting the agent for responsible use
+- **Agent:** Trust & Safety Agent → [aka.ms/a2a2i](https://aka.ms/a2a2i)
 
 ---
 

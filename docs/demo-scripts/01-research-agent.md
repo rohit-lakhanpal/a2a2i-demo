@@ -1,8 +1,8 @@
 # Demo Script — Stage 1: Research Agent
 
-**Total time:** 25 minutes (~1 min context setting + ~10 min facilitator demo + ~14 min participant hands-on)
-**Facilitator role-plays as:** A staff member at Southern Community Collective
-**Agent:** Research Agent → [aka.ms/a2a2i](https://aka.ms/a2a2i)
+- **Total time:** 25 minutes (~1 min context setting + ~10 min facilitator demo + ~14 min participant hands-on)
+- **Facilitator role-plays as:** A staff member at Southern Community Collective
+- **Agent:** Research Agent → [aka.ms/a2a2i](https://aka.ms/a2a2i)
 
 ---
 

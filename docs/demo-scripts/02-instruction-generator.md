@@ -1,8 +1,8 @@
 # Demo Script — Stage 2: Instruction Generator Agent
 
-**Total time:** 20 minutes (5–7 min facilitator demo + 13–15 min participant hands-on)
-**Facilitator role-plays as:** Same nonprofit staff member, now carrying the Research Agent output
-**Agent:** Instruction Generator Agent → [aka.ms/a2a2i](https://aka.ms/a2a2i)
+- **Total time:** 20 minutes (5–7 min facilitator demo + 13–15 min participant hands-on)
+- **Facilitator role-plays as:** Same nonprofit staff member, now carrying the Research Agent output
+- **Agent:** Instruction Generator Agent → [aka.ms/a2a2i](https://aka.ms/a2a2i)
 
 ---
 
