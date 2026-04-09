@@ -44,6 +44,8 @@ The Teams team you just created has a SharePoint site with a **Documents** libra
 
 > **Tip:** If you want a more realistic demo experience, convert the `.md` files to `.docx` or `.pdf` before uploading. The markdown versions work fine with Copilot, but Word/PDF feel more natural to a grants officer audience.
 
+> **Why the grant guidelines DOCX must be in SharePoint:** The public web connector can read the grant web page but can't expand JavaScript accordions or download linked DOCX files. Download the guidelines document separately and upload it to SharePoint so the agent can read it reliably.
+
 ---
 
 ## Step 3: Note the SharePoint Site URL
@@ -161,7 +163,7 @@ Data Source Rules:
   or web searches about the organisation itself.
 ```
 
-> **Why the Knowledge section is different from what the Instruction Generator Agent produced:** The generated version enables org-wide SharePoint, Teams, and email search — appropriate for a real organisation but wrong for our demo. We override it to scope SharePoint to just the "Southern Community Collective Inc" site and restrict other data sources. See the [⚠️ Gotcha in the sample transcript](demo-scripts/sample-transcript-instruction-generator.md#%EF%B8%8F-gotcha-knowledge-source-override) for details.
+> **Why the Knowledge section is different from what the Instruction Generator Agent produced:** The generated version enables org-wide SharePoint, Teams, and email search — appropriate for a real organisation but wrong for our demo. We override it to scope SharePoint to just the "Southern Community Collective Inc" site and restrict other data sources. See the [⚠️ Gotcha in the sample transcript](sample-transcripts/instruction-generator.md#%EF%B8%8F-gotcha-knowledge-source-override) for details.
 
 ### 4d — Configure Knowledge Sources
 
@@ -197,7 +199,7 @@ Prompt:
 >
 > *Please assess whether Southern Community Collective is a good fit. Our org documents are in SharePoint. The grant guidelines DOCX has also been uploaded there.*
 
-If it's working, you should see a **Decision Block** followed by a **Detailed Breakdown** that cross-references the grant criteria against the org profile. Check the [sample transcript](demo-scripts/sample-transcript-instruction-generator.md#testing-the-built-agent) for the full expected output and analysis of what the agent catches (and misses).
+If it's working, you should see a **Decision Block** followed by a **Detailed Breakdown** that cross-references the grant criteria against the org profile. Check the [sample transcript](sample-transcripts/instruction-generator.md#testing-the-built-agent) for the full expected output and analysis of what the agent catches (and misses).
 
 > **Important:** The agent will likely score this as **Medium** fit and catch 2 of the 3 designed disqualifiers (round closed + excluded use of funds). It typically misses the geographic priority mismatch — and that's by design. This sets up the Trust & Safety conversation in Stage 3.
 
@@ -222,4 +224,4 @@ The pre-workshop setup is done. You have a working Grant Fit Check agent that yo
 
 ---
 
-[← Back to README](../../README.md)
+[← Back to README](../README.md)

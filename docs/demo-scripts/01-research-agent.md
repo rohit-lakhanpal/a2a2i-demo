@@ -9,10 +9,10 @@
 ## Before You Start
 
 - Have the Research Agent open and ready
-- Know your 3 disqualifiers cold (see [Cheat Sheet](cheat-sheet.md))
+- Know your 3 disqualifiers cold (see [Cheat Sheet](../cheat-sheet.md))
 - Remind yourself: you are NOT demoing the finished grant agent yet — you're demoing the *process of defining one*
 - **Open a scratch document** (Word, OneNote, Notepad — anything) to copy-paste outputs as you go
-- Review the [sample transcript](sample-transcript-research-agent.md) so you know what to expect from the agent
+- Review the [sample transcript](../sample-transcripts/research-agent.md) so you know what to expect from the agent
 
 > **Important — tell participants this early:** The three workshop agents are not connected to each other. Conversation history is lost when you leave an agent. Everyone should have a helper document open where they copy-paste their outputs at each stage. The Research Agent summary gets pasted into the Instruction Generator, and those instructions get pasted into the Trust & Safety Agent. If you don't save it, you lose it.
 

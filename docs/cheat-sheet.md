@@ -85,17 +85,4 @@
 
 ---
 
-## Technical Notes
-
-**Why the Guidelines DOCX must be in SharePoint:**
-Public web connector can read the grant page but can't expand JS accordions or download linked DOCX files. Download the guidelines → upload to SharePoint → agent reads it reliably.
-
-**Copilot Agent Builder connectors:**
-- **SharePoint** → org docs + guidelines DOCX (primary)
-- **Public web** → grant URL page
-- **Org chart** → "who to talk to" routing
-- Email, Teams, Documents → enabled but secondary
-
----
-
-[← Back to README](../../README.md)
+[← Back to README](../README.md)

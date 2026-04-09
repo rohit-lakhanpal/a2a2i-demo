@@ -11,7 +11,7 @@
 - Have the Instruction Generator Agent open in a new tab/window
 - Have your Research Agent output ready to copy-paste (from Stage 1)
 - Have Copilot Agent Builder open and ready in another tab — you'll paste instructions into it after
-- Review the [sample transcript](sample-transcript-instruction-generator.md) beforehand so you know what to expect
+- Review the [sample transcript](../sample-transcripts/instruction-generator.md) beforehand so you know what to expect
 
 > **Reminder:** The agents are not connected — participants need their Research Agent output saved in their scratch document. If anyone didn't copy it, they'll need to go back and re-run Stage 1 or use your demo output as a starting point.
 
@@ -94,6 +94,8 @@
 **Presenter note:** Don't build the full agent live — just show the copy-paste flow and where the key settings are.
 
 > *"The Instruction Generator gives you what to say to the agent. Copilot Agent Builder is where you wire it up — connect SharePoint, enable the web connector, set who can use it. The instructions are the brain; the builder is the body."*
+
+> 🎯 **Why the agent catches 2 out of 3 disqualifiers:** When you test the built agent, it will flag the round being closed and the excluded use of funds — but it typically misses the geographic priority mismatch. This is by design. The incompleteness sets up the Trust & Safety conversation in Stage 3: it shows participants why human-in-the-loop is essential, not optional.
 
 ---
 
