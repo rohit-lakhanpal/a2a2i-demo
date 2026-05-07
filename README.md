@@ -8,7 +8,11 @@ This repository contains everything you need to deliver the **"Agent-to-Agent-to
 
 ## Origin Story
 
-This workshop was created for **Microsoft's Sydney Elevate Day** — an invited event for Non Profits and Educational Institutions in Australia. The original facilitator is a Microsoft tech seller covering Aged Care orgs, Research Institutes, Health & Human Services nonprofits, and Educational Institutions. The goal was to show attendees how to use AI as a **comaker** to build a custom Copilot agent around a real problem — in just 90 minutes.
+The **Agent-to-Agent-to-Impact (A2A2I)** platform was originally created for the **Global Nonprofit Leaders Summit** as a way to help organisations rapidly prototype meaningful AI solutions to real problems.
+
+This workshop was later adapted and delivered at **Microsoft's Sydney Elevate Day** — an invited event for nonprofits and educational institutions in Australia.
+
+The original facilitator is a Microsoft tech seller covering aged care organisations, research institutes, health and human services nonprofits, and educational institutions. The goal has been to show attendees how to use AI as a **co-maker** to build a custom Copilot agent around a real problem — in just 90 minutes.
 
 ---
 
@@ -95,11 +99,25 @@ Before the workshop, you'll need to create a Teams team (which auto-provisions a
 This repo is designed so **any facilitator** — at a Microsoft event, a partner workshop, or a community meetup — can pick it up and run the session with their own audience. Contributions, localisation, and adaptations are welcome.
 
 **Getting started:**
-1. Read this README to understand the workshop structure and demo scenario
-2. Follow the **[Facilitator Setup Guide](docs/facilitator-setup-guide.md)** to prepare your demo environment
-3. Review the **[Cheat Sheet](docs/cheat-sheet.md)** — key facts, expected output, and recovery phrases
+1. Read this README to understand the workshop structure and demo scenario  
+2. Follow the **[Facilitator Setup Guide](docs/facilitator-setup-guide.md)** to prepare your demo environment  
+3. Review the **[Cheat Sheet](docs/cheat-sheet.md)** — key facts, expected output, and recovery phrases  
 4. Run the demo scripts:
-   - [Stage 1 — Research Agent](docs/demo-scripts/01-research-agent.md) (25 min: ~12 min demo + ~13 min hands-on)
-   - [Stage 2 — Instruction Generator](docs/demo-scripts/02-instruction-generator.md) (20 min: ~7 min demo + ~13 min hands-on)
-   - [Stage 3 — Trust & Safety](docs/demo-scripts/03-trust-and-safety.md) (10 min: ~5 min demo + ~5 min hands-on)
+   - [Stage 1 — Research Agent](docs/demo-scripts/01-research-agent.md) (25 min: ~12 min demo + ~13 min hands-on)  
+   - [Stage 2 — Instruction Generator](docs/demo-scripts/02-instruction-generator.md) (20 min: ~7 min demo + ~13 min hands-on)  
+   - [Stage 3 — Trust & Safety](docs/demo-scripts/03-trust-and-safety.md) (10 min: ~5 min demo + ~5 min hands-on)  
 5. Familiarise yourself with the 3 agents at [aka.ms/a2a2i](https://aka.ms/a2a2i) before the session
+
+---
+
+## Acknowledgements
+
+This work builds on the collective effort of contributors who helped design, test, and refine the experience:
+
+- Andrea Caporale — [LinkedIn](https://www.linkedin.com/in/acaporale/)  
+- Benjamin Jurecic — [LinkedIn](https://www.linkedin.com/in/benjurecic)  
+- Fabiana Bolognini — [LinkedIn](https://www.linkedin.com/in/fabianabolognini/)  
+- I‑Pei Lin — [LinkedIn](https://www.linkedin.com/in/ipeilin)  
+- Minji Kim — [LinkedIn](https://www.linkedin.com/in/itsminjikim/)  
+- Rohit Lakhanpal — [LinkedIn](https://www.linkedin.com/in/rohitlakhanpal/)  
+
